@@ -6,3 +6,5 @@ Usage:
 ```
 helm install  rel-vcluster ./vcluster -n my-vcluster -f values_etcd_external.yaml
 ```
+
+The chart is based on vcluster upstream chart version 0.15.2
